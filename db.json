@@ -11,6 +11,32 @@
       "pictureUrl": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50?s=200",
       "email": "tomSawyer@gmail.com",
       "about": "I like travelling along Missisipi!",
+      "friends": [
+          {
+              "name": "Huckleberry Finn",
+              "pictureUrl": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50?s=200"
+          },
+          {
+              "name": "Becky Thatcher",
+              "pictureUrl": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50?s=200"
+          },
+          {
+              "name": "Celeste Holm",
+              "pictureUrl": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50?s=200"
+          },
+          {
+              "name": "Huckleberry Finn",
+              "pictureUrl": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50?s=200"
+          },
+          {
+              "name": "Becky Thatcher",
+              "pictureUrl": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50?s=200"
+          },
+          {
+              "name": "Celeste Holm",
+              "pictureUrl": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50?s=200"
+          }
+      ],
       "profileAttributes": [
           {
               "key": "Date of birth",
